@@ -1,3 +1,3 @@
 #!/bin/sh
 #!/usr/bin/python3
-@reboot sh /home/pi/repos/piot/launcher.sh
+@reboot sh /home/pi/repos/PiSensorNetwork/Sensor/launcher.sh
