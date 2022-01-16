@@ -1,0 +1,11 @@
+{
+	"namespace": "nifi",
+	"name": "sensorreading",
+	"type": "record",
+	"fields": [
+		{ "name": "Humidity", "type": "float" },
+		{ "name": "Location", "type": "string" },
+		{ "name": "ReadTime", "type": "int" },
+		{ "name": "Temp", "type": "float" }
+	]
+}
